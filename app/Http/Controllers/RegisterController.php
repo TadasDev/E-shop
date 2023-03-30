@@ -50,7 +50,7 @@ class RegisterController extends Controller
      */
     public function store(Request $request)
     {
-        echo 'hit';
+        echo 'hittingas';
     }
 
     /**
